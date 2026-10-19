@@ -22,10 +22,10 @@
 
 ### Optie A: Direct in je browser (zonder installatie)
 Open gewoon de live versie via GitHub Pages:  
-👉 **[Open RapportRadar Live](https://roelwuytack-bot.github.io/rapportradar/)**
+👉 **[Open RapportRadar Live]([https://roelwuytack-bot.github.io/rapportradar/](https://roelwuytack-bot.github.io/belgische-school-puntentracker/rapportradar-blanco.html))**
 
 ### Optie B: Lokaal als 1 bestand downloaden
-1. Download het bestand [`rapportradar-blanco.html`](https://github.com/YOUR_USERNAME/rapportradar/raw/main/rapportradar-blanco.html).
+1. Download het bestand [`rapportradar-blanco.html`](https://github.com/roelwuytack-bot/rapportradar/raw/main/rapportradar-blanco.html).
 2. Dubbelklik op het bestand op je computer, laptop, iPad of smartphone.
 3. Het opent direct in Chrome, Edge, Safari of Firefox. Geen installatie of internetverbinding nodig!
 

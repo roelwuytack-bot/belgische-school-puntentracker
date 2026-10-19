@@ -22,7 +22,7 @@
 
 ### Optie A: Direct in je browser (zonder installatie)
 Open gewoon de live versie via GitHub Pages:  
-👉 **[Open RapportRadar Live](https://YOUR_USERNAME.github.io/rapportradar/)**
+👉 **[Open RapportRadar Live](https://roelwuytack-bot.github.io/rapportradar/)**
 
 ### Optie B: Lokaal als 1 bestand downloaden
 1. Download het bestand [`rapportradar-blanco.html`](https://github.com/YOUR_USERNAME/rapportradar/raw/main/rapportradar-blanco.html).
